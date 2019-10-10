@@ -1,3 +1,13 @@
+# emacs backup files
+*~
+# vim backup files
+*.swp
+# NFS file
+.nfs*
+
+#MACOS files
+.DS_Store
+
 # ignores all object files and executables that may be generated when compiling
 *.o
 *.x
